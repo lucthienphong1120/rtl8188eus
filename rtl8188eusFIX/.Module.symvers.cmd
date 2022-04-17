@@ -1,0 +1,1 @@
+cmd_/home/user/Desktop/rtl8188eus-fix/rtl8188eusKL/Module.symvers := sed 's/\.ko$$/\.o/' /home/user/Desktop/rtl8188eus-fix/rtl8188eusKL/modules.order | scripts/mod/modpost -m   -o /home/user/Desktop/rtl8188eus-fix/rtl8188eusKL/Module.symvers -e -i Module.symvers   -T -
