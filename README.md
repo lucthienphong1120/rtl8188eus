@@ -1,7 +1,11 @@
-# Install
+# rtl8188eus
 
-`git clone https://github.com/sonvan1811/rtl8188eus.git`
+Tool auto install wifi driver for tp-link wn722 and tp-link wn725 (chipset rtl8188eus) in Kali Linux/ParrotOS
 
-`cd rtl8188eus`
+## Usage
 
-`python3 rtl8188eus.py`
+```
+git clone https://github.com/lucthienphong1120/rtl8188eus
+cd rtl8188eus
+python3 rtl8188eus.py
+```
